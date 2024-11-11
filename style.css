@@ -1,0 +1,10 @@
+/* CSS files add styling rules to your content */
+
+p {
+  font-family: sofiapro-medium;
+  font-size: 16px;
+  font-weight: 500;
+  color: #000000;
+}
+
+img { height: 300%px; }
